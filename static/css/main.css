@@ -831,11 +831,11 @@ legend {
 }
 
 .s006 form legend {
-  font-size: 36px;
+  font-size: 30px;
   color: #fff;
   font-weight: 800;
   text-align: center;
-  margin-bottom: 59px;
+  margin-bottom: 10px;
 }
 
 .s006 form .inner-form {
